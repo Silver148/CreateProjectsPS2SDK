@@ -1,0 +1,5 @@
+# Ignorar carpetas y archivos de compilación creados por pyinstaller
+*.spec
+dist/
+build/
+.venv/
